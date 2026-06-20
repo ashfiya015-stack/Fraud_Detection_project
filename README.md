@@ -110,7 +110,7 @@ The Random Forest algorithm was selected because it:
 
 ## 📁 Repository Structure
 
-OIBSIP_Fraud_Detection/
+Fraud_Detection_Project
 │
 ├── fraud.ipynb
 ├── Fraud_Detection.html
